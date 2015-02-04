@@ -1,6 +1,6 @@
 # protocol-droid
 
-***Project not functional!***
+***Project not yet functional!***
 
 Provides a context menu on links with web protocols for selecting protocol
 handlers (even if a default one has already been set).
