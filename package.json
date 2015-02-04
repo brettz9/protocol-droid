@@ -1,0 +1,10 @@
+{
+    "title": "Protocol Droid",
+    "name": "protocol-droid",
+    "id": "protocol-droid@brett-zamir.me",
+    "main": "lib/main",
+    "description": "Provides context menus for selecting protocol or content type handlers",
+    "author": "Brett Zamir",
+    "license": "MIT",
+    "version": "0.1.0"
+}

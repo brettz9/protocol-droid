@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+<a href="web+prot1:abc">Protocol 1 (abc)</a>
+
+<a href="web+prot2:def">Protocol 2 (def)</a>
+
+<script>
+
+navigator.registerProtocolHandler('web+prot1', location.href + '?prot1=true&uri=%s', 'Protocol 1');
+
+navigator.registerProtocolHandler('web+prot2', location.href + '?prot2=true&uri=%s', 'Protocol 2');
+
+</script>
+
+</body>
+</html>
