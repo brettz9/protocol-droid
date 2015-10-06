@@ -6,5 +6,6 @@
     "description": "Provides context menus for selecting protocol or content type handlers",
     "author": "Brett Zamir",
     "license": "MIT",
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "permissions": {"private-browsing": true}
 }
